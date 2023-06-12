@@ -5,7 +5,7 @@
 <img alt="github" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/github_vector.svg">
 
 ## ❓ What is this mod?
-This mod is my first modding project. It's using a lot of stuff that I wanted to learn and what I am still learning. It just adds some random features that I wanted to make. Don't expect miracles, there's probably lots of bugs, but if you encounter some, feel free to report them on the [issue tracker](https://github.com/DKXLY/Tails-OH-NO/issues), thanks a lot and enjoy the mod!
+This mod is my first modding project. It's using a lot of stuff that I wanted to learn and what I am still learning. It just adds some random features that I wanted to make. Don't expect miracles, there's probably lots of bugs, if you encounter some, feel free to report them on the [issue tracker](https://github.com/DKXLY/Tails-OH-NO/issues), thanks a lot and enjoy the mod!
 
 ## ✨ Features
  - [x] Coin, that you can flip
