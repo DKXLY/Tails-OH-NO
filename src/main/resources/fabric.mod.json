@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "tutorialmod",
+	"version": "${version}",
+	"name": "Tails!?? OH NO",
+	"description": "My first modding project! There's probably thousands of bugs, use with caution.",
+	"authors": [
+		"DKXLY"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/tails_oh_no/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "net.dkxly.tails_oh_no.TailsOhNo"
+		],
+		"client": [
+          "net.dkxly.tails_oh_no.TailsOhNoClient"
+		]
+	},
+	"mixins": [
+		"tails_oh_no.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.19.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+	}
+}
