@@ -8,7 +8,7 @@
 This mod is my first modding project. It's using a lot of stuff that I wanted to learn and what I am still learning. It just adds some random features that I wanted to make. Don't expect miracles, there's probably lots of bugs, if you encounter some, feel free to report them on the [issue tracker](https://github.com/DKXLY/Tails-OH-NO/issues), thanks a lot and enjoy the mod!
 
 ## ✨ Features
- - [x] Coin, that you can flip
+ - [x] A Suspicious Coin, that you can flip
  - [x] Bugs
 
 ## ❌ Known incompatibilities
