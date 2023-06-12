@@ -1,13 +1,16 @@
 
 
-# ❓ What is this mod?
+## ❓ What is this mod?
 This mod is my first modding project. It's using a lot of stuff that I wanted to learn and what I am still learning. It just adds some random features that I wanted to make. Don't expect miracles, there's probably lots of bugs, but if you encounter some, feel free to report them on the [issue tracker](https://github.com/DKXLY/Tails-OH-NO/issues), thanks a lot and enjoy the mod!
 
-# ❌ Known incompatibilities
+## ❌ Known incompatibilities
  - None so far
 
-# 🛠 How do I install it?
+## 🛠 How do I install it?
 Just download the latest release for you desired Minecraft version and drop it into your mods folder.
 
-# 📜 License
+## 📜 License
 This mod is licensed under the [MIT License](https://github.com/DKXLY/Tails-OH-NO/blob/master/LICENSE). If you want to use it in a modpack, feel free to! I would appreciate it if you would credit me!
+
+## 📢 Disclaimer
+This mod is not affiliated, endorsed, or sponsored by Mojang, Microsoft, or FabricMC. It is an independent project developed by DKXLY. Mojang, Microsoft, and FabricMC do not endorse or take responsibility for any issues arising from the use of this mod.
