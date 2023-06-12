@@ -10,4 +10,4 @@ This mod is my first modding project. It's using a lot of stuff that I wanted to
 Just download the latest release for you desired Minecraft version and drop it into your mods folder.
 
 # 📜 License
-This mod is licensed under the [MIT License](https://github.com/DKXLY/Tails-OH-NO/blob/master/LICENSE]. If you want to use it in a modpack, feel free to! I would appreciate it if you would credit me!
+This mod is licensed under the [MIT License](https://github.com/DKXLY/Tails-OH-NO/blob/master/LICENSE). If you want to use it in a modpack, feel free to! I would appreciate it if you would credit me!
