@@ -9,7 +9,6 @@ public abstract class CloseClientPacket implements Packet {
     }
 
     public void read(PacketByteBuf buf) {
-
     }
 
     public static Identifier getId() {
