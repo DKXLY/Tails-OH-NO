@@ -1,6 +1,7 @@
-package net.dkxly.tails_oh_no.item;
+package net.dkxly.tails_oh_no.item.custom;
 
 
+import net.dkxly.tails_oh_no.item.ModItemGroups;
 import net.dkxly.tails_oh_no.packet.CloseClientPacket;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.fabricmc.fabric.api.networking.v1.PacketByteBufs;
@@ -47,6 +48,7 @@ public class CoinItem extends Item {
 
     @Override
     public void appendTooltip(ItemStack stack, @Nullable World world, List<Text> tooltip, TooltipContext context) {
+        tooltip.add(Text.of(""));
         tooltip.add(Text.translatable("A very interesting coin!").formatted(Formatting.DARK_GRAY, Formatting.ITALIC));
         tooltip.add(Text.translatable("I sure hope it does something useful...").formatted(Formatting.DARK_GRAY, Formatting.ITALIC));
 

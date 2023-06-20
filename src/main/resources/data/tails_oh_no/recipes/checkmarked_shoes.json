@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tails_oh_no:checkmark"
+
+        },
+        {
+            "item": "tails_oh_no:checkmark"
+
+        },
+        {
+            "item": "tails_oh_no:checkmark"
+
+        },
+        {
+            "item": "tails_oh_no:checkmark"
+
+        },
+        {
+            "item": "tails_oh_no:checkmark"
+        },
+        {
+            "item": "tails_oh_no:checkmark"
+        },
+        {
+            "item": "tails_oh_no:checkmark"
+        },
+        {
+            "item": "tails_oh_no:checkmark"
+        },
+        {
+            "item": "minecraft:netherite_boots"
+        }
+    ],
+    "result": {
+        "item": "tails_oh_no:checkmarked_shoes",
+        "count": 1
+    }
+}
