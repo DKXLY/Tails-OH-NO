@@ -11,6 +11,9 @@ This mod is my first modding project. It's using a lot of stuff that I wanted to
  - [x] A Suspicious Coin, that you can flip
  - [x] Bugs
 
+## 🔗 Dependencies
+ - [Geckolib](https://modrinth.com/mod/geckolib) - 4.2 or higher
+
 ## ❌ Known incompatibilities
  - None so far
 
